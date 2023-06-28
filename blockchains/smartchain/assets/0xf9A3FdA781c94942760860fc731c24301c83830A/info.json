@@ -1,10 +1,10 @@
 {
-    "name": "PhilosoRaptor",
-    "website": "https://raptr.finance",
-    "description": "A deflationnary token made for long term investors and helping to save the earth",
+    "name": "Raptor (old)",
+    "website": "https://raptorchain.io/",
+    "description": "Old RPTR token, now migrated to Raptor v3. Please note that rate is 1 million to 1 !!!",
     "explorer": "https://bscscan.com/token/0xf9A3FdA781c94942760860fc731c24301c83830A",
     "type": "BEP20",
-    "symbol": "RAPTOR",
+    "symbol": "RPTROLD",
     "decimals": 9,
     "status": "active",
     "id": "0xf9A3FdA781c94942760860fc731c24301c83830A"
