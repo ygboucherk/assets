@@ -1,0 +1,41 @@
+{
+    "name": "Raptor v3 (Portal)",
+    "website": "https://raptorchain.io/",
+    "description": "A carbon-neutral crypto ecosystem fueled by its own blockchain (RaptorChain)",
+    "explorer": "https://solscan.io/token/HrnLUSkLkKN2KHBMQ8soLgXnhjifaRFDYzaQvTPg6zem",
+    "type": "SPL",
+    "symbol": "RPTR",
+    "decimals": 8,
+    "status": "active",
+    "id": "HrnLUSkLkKN2KHBMQ8soLgXnhjifaRFDYzaQvTPg6zem",
+    "links": [
+        {
+            "name": "github",
+            "url": "https://github.com/raptor-finance"
+        },
+        {
+            "name": "whitepaper",
+            "url": "https://raptorchain.io/whitepaper.pdf"
+        },
+        {
+            "name": "coinmarketcap",
+            "url": "https://coinmarketcap.com/currencies/raptor-token"
+        },
+        {
+            "name": "coingecko",
+            "url": "https://coingecko.com/coins/raptor-finance"
+        },
+		{
+			"name": "twitter",
+			"url": "https://twitter.com/raptorchainio"
+		},
+		{
+			"name": "instagram",
+			"url": "https://instagram.com/rptrarmy"
+		},
+		{
+			"name": "telegram",
+			"url": "https://t.me/RaptorSwap"
+		}
+    ]
+}
