@@ -1,0 +1,11 @@
+{
+    "name": "Bridged RPTR",
+    "website": "https://raptorchain.io/",
+    "description": "A carbon-neutral crypto ecosystem fueled by its own blockchain (RaptorChain)",
+    "explorer": "https://polygonscan.com/token/0x94f405FB408Ad743418d10f4926cb9cdb53b2ef7",
+    "type": "POLYGON",
+    "symbol": "RPTR",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x94f405FB408Ad743418d10f4926cb9cdb53b2ef7"
+}
