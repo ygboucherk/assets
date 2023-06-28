@@ -7,5 +7,35 @@
     "symbol": "RPTR",
     "decimals": 18,
     "status": "active",
-    "id": "0x50956f965F321c1DE62d2E103620881597d76809"
+    "id": "0x50956f965F321c1DE62d2E103620881597d76809",
+    "links": [
+        {
+            "name": "github",
+            "url": "https://github.com/raptor-finance"
+        },
+        {
+            "name": "whitepaper",
+            "url": "https://raptorchain.io/whitepaper.pdf"
+        },
+        {
+            "name": "coinmarketcap",
+            "url": "https://coinmarketcap.com/currencies/raptor-token"
+        },
+        {
+            "name": "coingecko",
+            "url": "https://coingecko.com/coins/raptor-finance"
+        },
+		{
+			"name": "twitter",
+			"url": "https://twitter.com/raptorchainio"
+		},
+		{
+			"name": "instagram",
+			"url": "https://instagram.com/rptrarmy"
+		},
+		{
+			"name": "telegram",
+			"url": "https://t.me/RaptorSwap"
+		}
+    ]
 }
