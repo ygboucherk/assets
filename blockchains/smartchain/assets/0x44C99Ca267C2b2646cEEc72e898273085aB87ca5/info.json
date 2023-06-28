@@ -1,0 +1,11 @@
+{
+    "name": "Raptor v3",
+    "website": "https://raptorchain.io/",
+    "description": "A carbon-neutral crypto ecosystem fueled by its own blockchain (RaptorChain)",
+    "explorer": "https://bscscan.com/token/0x44C99Ca267C2b2646cEEc72e898273085aB87ca5",
+    "type": "BEP20",
+    "symbol": "RPTR",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x44C99Ca267C2b2646cEEc72e898273085aB87ca5"
+}
